@@ -41,6 +41,8 @@
 ## 学习资源
 
 - Python官方文档：[python.org](https://www.python.org/)
+- 书籍：
+  - 实体书《Python从入门到实践》
 - 在线学习平台：
   - [Python教程 - 廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)
   - [菜鸟教程 - Python](https://www.runoob.com/python3/python3-tutorial.html)
