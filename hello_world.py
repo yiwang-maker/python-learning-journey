@@ -29,3 +29,4 @@ message = f"{famous_person} once said, {saying}"
 print(message)
 
 name = "   albert einstein  "
+name = ""
