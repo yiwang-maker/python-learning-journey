@@ -31,10 +31,9 @@
 
 ## 项目结构
 
-    My-First/
+    Python-learning-journey/
     │
     ├── basic/          # 基础语法练习
-    ├── advanced/       # 进阶概念练习
     ├── projects/       # 实践项目
     └── notes/          # 学习笔记
 
